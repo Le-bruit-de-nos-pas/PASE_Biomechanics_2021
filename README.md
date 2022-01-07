@@ -1,3 +1,18 @@
 # PASE_Study
 ## Sample code for exploratory analysis of the strength of association between physical activity and gait performance in Parkinson's Disease
-### fdfdfdfd
+
+
+
+Principal Component Analysis. Loadings Extraction and Varimax Rotation. Vizualiation.
+
+Principal Component Analysis + Linear Discriminant Analysis. Train / Test Models.
+
+Tree-based classifications. Train / Test Models.
+
+Cross-validations ("leave one out approach").
+
+Principal Component Regression.
+
+Partial Least Squares.
+
+Mediation Analysis with bootstrapping.
