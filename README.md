@@ -3,7 +3,7 @@
 
 
 
-Principal Component Analysis. Loadings Extraction and Varimax Rotation. Vizualiation.
+Principal Component Analysis. Loadings Extraction and Varimax Rotation. Visualization.
 
 Principal Component Analysis + Linear Discriminant Analysis. Train / Test Models.
 
