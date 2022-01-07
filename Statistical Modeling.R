@@ -1,6 +1,6 @@
 
 
-####" Set your working directory to where the source files (e.g. csv) happen to be stored.  ######
+#### Set your working directory to where the source files (e.g. csv) happen to be stored.  ######
 ##### Otherwise, read in the full path when importing each file. #####
 
 ##### Load the libraries as required (may require installation). #####
