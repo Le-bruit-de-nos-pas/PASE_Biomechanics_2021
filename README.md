@@ -16,3 +16,9 @@ Principal Component Regression.
 Partial Least Squares.
 
 Mediation Analysis with bootstrapping.
+
+
+\
+\
+\
+A link to the paper will be provided here once published.
