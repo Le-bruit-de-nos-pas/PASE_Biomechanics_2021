@@ -1,5 +1,5 @@
 # PASE_Study
-## Da analysis on the strength of association between physical activity and gait performance in Parkinson's Disease
+## Data analysis on the strength of association between physical activity and gait performance in Parkinson's Disease
 
 
 
