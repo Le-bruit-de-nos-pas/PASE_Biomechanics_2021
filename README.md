@@ -21,4 +21,4 @@ Mediation Analysis with bootstrapping.
 \
 \
 \
-A link to the paper will be provided here once published.
+Bastos, P., Meira, B., Mendonça, M. et al. Distinct gait dimensions are modulated by physical activity in Parkinson's disease patients. J Neural Transm (2022). https://doi.org/10.1007/s00702-022-02501-9
